@@ -1,0 +1,6 @@
+[book]
+authors = ["rex"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Rust"
